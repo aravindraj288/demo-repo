@@ -1,9 +1,2 @@
-Testing p4merge
-next changes
-abc111
-abc12
-
-commit area
-new text is added
-working area
-
+today's class
+the second lines 
